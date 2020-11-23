@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/daveferkoBlackBaud/GitHub%20integration%20with%20Azure%20Pipelines/_apis/build/status/daveferko.ContosoAir?branchName=master)](https://dev.azure.com/daveferkoBlackBaud/GitHub%20integration%20with%20Azure%20Pipelines/_build/latest?definitionId=1&branchName=master)
+
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
